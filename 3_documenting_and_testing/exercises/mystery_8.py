@@ -15,6 +15,8 @@ def mystery_8(a, b):
             c.append(a[0])
         a = a[1:]
     return c
+
+
 """ example 
  mystery_8("nagham", "a")
- output: ["a","a"]
+ output: ["a","a"]"""
